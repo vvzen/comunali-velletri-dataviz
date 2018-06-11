@@ -1,5 +1,6 @@
 import requests
 import csv
+from collections import OrderedDict  # for sorting the dictionary
 import pprint
 from bs4 import BeautifulSoup
 
@@ -59,8 +60,12 @@ for i in range(1, number_of_sections+1):
     print("Sezione {}".format(i))
     pp.pprint(section_data[i])
 
+    # sort the section data by vote
+    ordered_section_data = OrderedDict(
+        sorted(section_data[i].items(), key=lambda x: x[1], reverse=True))
+
     # save the dictionary as a csv
     with open("data/section_{}.csv".format(str(i).zfill(2)), "w") as f:
-        w = csv.DictWriter(f, section_data[i].keys())
+        w = csv.DictWriter(f, ordered_section_data.keys())
         w.writeheader()
-        w.writerow(section_data[i])
+        w.writerow(ordered_section_data)
