@@ -60,7 +60,7 @@ for i in range(1, number_of_sections+1):
     pp.pprint(section_data[i])
 
     # save the dictionary as a csv
-    with open("data/section_{}.csv".format(i), "w") as f:
+    with open("data/section_{}.csv".format(str(i).zfill(2)), "w") as f:
         w = csv.DictWriter(f, section_data[i].keys())
         w.writeheader()
         w.writerow(section_data[i])
