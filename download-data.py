@@ -62,7 +62,7 @@ for i in range(1, number_of_sections+1):
 
     # sort the section data by vote
     ordered_section_data = OrderedDict(
-        sorted(section_data[i].items(), key=lambda x: x[1], reverse=True))
+        sorted(section_data[i].items(), key=lambda x: x[0], reverse=False))
 
     # save the dictionary as a csv
     with open("data/section_{}.csv".format(str(i).zfill(2)), "w") as f:
