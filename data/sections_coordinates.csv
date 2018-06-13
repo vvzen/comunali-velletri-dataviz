@@ -1,11 +1,43 @@
-,section address,lat,lng
-3,ist. tecnico 'c. battisti',41.6874548,12.7751572
-8,scuola media 'c. cardinali',41.68891,12.77503
-13,scuola primaria fontana della rosa,41.6919827,12.7722349
-17,scuola elementare 'l. novelli',41.68891,12.77503
-23," istituto di istruz. superiore statale """,41.6874548,12.7751572
-28,scuola elementare 'g.marcelli',41.6821873,12.7765793
-32,"scuola media ""de rossi""",41.6807024,12.7787777
-37,"istituto alberghiero ""u. tognazzi""",41.6746959,12.7767513
-40,"istituto d'istruz. super. ""mancinelli""",41.6736763,12.7759284
-41,"istituto d'istr. super. ""mancinelli f""",41.6865586,12.7749079
+section number,section name,lat,lng
+01,IISS Cesare Battisti Velletri,41.6874548,12.7751572
+02,IISS Cesare Battisti Velletri,41.6874548,12.7751572
+03,IISS Cesare Battisti Velletri,41.6874548,12.7751572
+04,IISS Cesare Battisti Velletri,41.6874548,12.7751572
+05,"IC Gino Felci - plesso ""Clemente Cardinali""",41.68891,12.77503
+06,"IC Gino Felci - plesso ""Clemente Cardinali""",41.68891,12.77503
+07,"IC Gino Felci - plesso ""Clemente Cardinali""",41.68891,12.77503
+08,"IC Gino Felci - plesso ""Clemente Cardinali""",41.68891,12.77503
+09,"IC Gino Felci - plesso ""Clemente Cardinali""",41.68891,12.77503
+10,School Mariani,41.6919827,12.7722349
+11,School Mariani,41.6919827,12.7722349
+12,School Mariani,41.6919827,12.7722349
+13,School Mariani,41.6919827,12.7722349
+14,School Mariani,41.6919827,12.7722349
+15,"IC Gino Felci - plesso ""Clemente Cardinali""",41.68891,12.77503
+16,"IC Gino Felci - plesso ""Clemente Cardinali""",41.68891,12.77503
+17,"IC Gino Felci - plesso ""Clemente Cardinali""",41.68891,12.77503
+18,"IC Gino Felci - plesso ""Clemente Cardinali""",41.68891,12.77503
+19,IISS Cesare Battisti Velletri,41.6874548,12.7751572
+20,IISS Cesare Battisti Velletri,41.6874548,12.7751572
+21,IISS Cesare Battisti Velletri,41.6874548,12.7751572
+22,IISS Cesare Battisti Velletri,41.6874548,12.7751572
+23,IISS Cesare Battisti Velletri,41.6874548,12.7751572
+24,IISS Cesare Battisti Velletri,41.6874548,12.7751572
+25,Istituto Comprensivo Velletri Centro,41.6821873,12.7765793
+26,Istituto Comprensivo Velletri Centro,41.6821873,12.7765793
+27,Istituto Comprensivo Velletri Centro,41.6821873,12.7765793
+28,Istituto Comprensivo Velletri Centro,41.6821873,12.7765793
+29,Istituto Comprensivo Velletri Centro,41.6821873,12.7765793
+30,SMS De Rossi,41.6807024,12.7787777
+31,SMS De Rossi,41.6807024,12.7787777
+32,SMS De Rossi,41.6807024,12.7787777
+33,SMS De Rossi,41.6807024,12.7787777
+34,IPSSAR Ugo Tognazzi,41.6746959,12.7767513
+35,IPSSAR Ugo Tognazzi,41.6746959,12.7767513
+36,IPSSAR Ugo Tognazzi,41.6746959,12.7767513
+37,IPSSAR Ugo Tognazzi,41.6746959,12.7767513
+38,IPSSAR Ugo Tognazzi,41.6746959,12.7767513
+39,Mancinelli and IIS Falconi,41.6736763,12.7759284
+40,Mancinelli and IIS Falconi,41.6736763,12.7759284
+41,Mancinelli and IIS Falconi,41.6736763,12.7759284
+42,Via Mancinelli,41.6865586,12.7749079
